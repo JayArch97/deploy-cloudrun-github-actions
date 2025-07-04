@@ -10,7 +10,7 @@ on:
 env:
   PROJECT_ID: 'acostajulio-dev' # TODO: update to your Google Cloud project ID
   REGION: 'us-central1' # TODO: update to your region
-  SERVICE: 'python-http-function' # TODO: update to your service name
+  SERVICE: 'python-http-function5' # TODO: update to your service name
 
 jobs:
   deploy:
